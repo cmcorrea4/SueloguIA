@@ -1,0 +1,55 @@
+# =============================================================================
+# REQUIREMENTS UNIFICADOS - Versiones Modernas Compatibles
+# =============================================================================
+
+# Streamlit
+streamlit==1.28.0
+
+# Manejo de datos
+pandas==2.0.3
+numpy==1.24.3
+openpyxl==3.1.2
+
+# Visualización
+plotly==5.17.0
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# =============================================================================
+# LangChain y OpenAI - Stack Moderno
+# =============================================================================
+langchain==0.2.11
+langchain-openai==0.1.17
+langchain-experimental==0.0.63
+langchain-core==0.2.23
+langchain-community==0.2.10
+
+# OpenAI API moderna
+openai==1.37.1
+
+# =============================================================================
+# RAG - Embeddings y Vector Store
+# =============================================================================
+faiss-cpu==1.7.4
+tiktoken
+
+# PDF Processing
+pypdf==4.0.1
+
+# =============================================================================
+# Utilidades
+# =============================================================================
+python-dotenv==1.0.0
+sodapy==2.2.0
+requests==2.31.0
+httpx==0.25.2
+streamlit-extras
+Pillow
+
+# Dependencias
+pydantic==2.8.2
+pydantic-core==2.20.1
+tabulate
+
+audio-recorder-streamlit==0.0.10
