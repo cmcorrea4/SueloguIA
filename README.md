@@ -52,7 +52,7 @@ Las respuestas del asistente pueden ser **reproducidas en audio**, facilitando l
 
 La aplicación está desplegada en **Streamlit Cloud**:
 
-🔗 **[Acceder a SueloGuIA](https://idcmulagrosavia.streamlit.app/)**
+🔗 **[Acceder a SueloGuIA](https://sueloguiaagrosavia.streamlit.app/)**
 
 ---
 
