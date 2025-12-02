@@ -1,5 +1,4 @@
-"""
-Funciones para calcular el Índice de Calidad de Datos (ICD)
+""" Funciones para calcular el Índice de Calidad de Datos (ICD)
 """
 import pandas as pd
 import numpy as np
@@ -132,7 +131,7 @@ def calcular_precision_outliers(df: pd.DataFrame, variables_numericas: List[str]
     total_datos = 0
     todos_indices_outliers = set()
     
-    # Diccionario para guardar qué índices son outliers en cada columna
+    # Diccionario para guardar qué índices son outliers en cada column
     outliers_por_indice = {}  # {indice: {columna: valor, ...}}
     
     for col in df_numeric.columns:
